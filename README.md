@@ -1,5 +1,4 @@
 # Fashion-MNIST
-## Capstone project - 2
 
 **Objective:** To classify images of different pieces of clothing.
 
