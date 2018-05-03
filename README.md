@@ -10,5 +10,7 @@ Data-set is publicly available on [kaggle](https://www.kaggle.com/zalando-resear
 
 **Methodology:** For this project we will be going to use deep learning concepts like artificial neural networks and convolutional neural networks to build an image classification model which will learn to distinguish 10 different item images into their respective categories.
 
+**Tools & Skills:** AWS, Python - Keras, Tensorflow, Convolutional Neural Networks.
+
 For more detailed analysis please look into the report and python notebook.
 
